@@ -29,9 +29,9 @@ wn.addshape("background.gif")
 wn.bgpic("background.gif")
 wn.addshape('ghost-flash.gif')
 g.shape('ghost-flash.gif')
-#wn.addshape('ufo.gif')
-#ufo.shape('ufo.gif')
-#wn.addshape('IMG_0933.gif')
+wn.addshape('ufo.gif')
+ufo.shape('ufo.gif')
+wn.addshape('IMG_0933.gif')
 
 rectCors = ((-5,20),(5,20),(5,-20),(-5,-20))
 
